@@ -1,4 +1,2 @@
-# dum
-## A dumb editor
-<br>
+# dum: A dumb editor
 <p>Why did I create this monstrosity</br>
